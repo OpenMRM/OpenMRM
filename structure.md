@@ -20,5 +20,5 @@ The Open Source MRM will be managed via the Community's structure and processes:
 * [Open Source Licensing and process to sign-up as a contributor](https://github.com/jbottum/openmrmtest/blob/main/governance.md) 
 * [Source Control](https://github.com/OpenMRM/OpenMRM/blob/main/sourecontrol.md)  
 * [Community Communications](https://github.com/jbottum/openmrmtest/blob/main/communications.md) 
-* [Code of Coduct](https://github.com/jbottum/openmrmtest/blob/main/codeofconduct.md)
+* [Code of Coduct](https://github.com/OpenMRM/OpenMRM/blob/main/codeofconduct.md)
 * [About the Founders](https://github.com/jbottum/openmrmtest/blob/main/founders.md)
