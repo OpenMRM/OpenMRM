@@ -1,5 +1,5 @@
 # Open MRM Project
-Open Source Model Risk Management Project (Open MRM Project)
+Open Source Model Risk Management Project (Open MRM)
 
 # TL;DR
 This Request for Comment [(RFC)](https://docs.google.com/document/d/1PMMrP63tHiMXwsDvti0TwWXSwVM-gxkokaAy2_X_Cac/edit) defines an open source software project for a composable Model Risk Management (MRM) services architecture with the explicit purpose of sharing MRM best practices for managing Machine Learning (ML) models.  The RFC defines a Proof of Concept (POC) that includes a unique identity token and a Smart Agent, which will be embedded within each model, and a Server that will manage model usage and collect usage data that is transmitted by the Smart Agent into a central repository. The POC will provide hands-on feedback of the RFC’s record schemas, libraries and application level APIs.
