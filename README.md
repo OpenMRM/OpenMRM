@@ -80,6 +80,6 @@ The Open MRM RFC and its appendix provide a structure and details on the Open MR
 Additionally we invite you to get involved in the Open MRM Community by:
 
 * Joining the Slack channel: OpenMRM.slack.com
-* Joining the GitHub project: [contributor details](https://github.com/openmrm/openmrm/blob/main/maintainers.md)	
+* Joining the GitHub project: [contributor details](https://github.com/OpenMRM/OpenMRM/blob/main/structure.md)	
 * Joining a Community meeting: Initial meeting Friday, March 25 at 10am CST
 
