@@ -35,7 +35,7 @@ For many organizations, the resource requirements needed to adequately address t
 #### Increases industry penetration of automation for governance. 
    * Although many may agree that increased MRM adoption is in the public good, and will also benefit institutions and regulators, the technical and procedural requirements to build a functional MRM implementation are complex, costly and specific to each organization. 
 
-#### Standard interface enables interoperability and composibility. 
+#### Standard interface enables interoperability and composability. 
    * Depending on timing, budgets and resources, a large organization may need interoperability between open source, homegrown and proprietary MRM systems.  
 
 #### Flexibility to build or buy the MRM services.
