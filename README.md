@@ -81,5 +81,5 @@ Additionally we invite you to get involved in the Open MRM Community by:
 
 * Joining the Slack channel: OpenMRM.slack.com
 * Joining the GitHub project: [contributor details](https://github.com/OpenMRM/OpenMRM/blob/main/structure.md)	
-* Joining a Community meeting: Initial meeting Friday, March 25 at 10am CST via this google-meet bridge: meet.google.com/itj-bsah-scg (note this link was updated on March 23)
+* Joining a Community meeting: [Community Meeting Notes and Agenda](https://docs.google.com/document/d/1Wdxt1xedAj7qF_Rjmxy1R0NRdfv7UWs-r2PItewxHpE/edit#)
 
